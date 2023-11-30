@@ -10,10 +10,15 @@ Hi hey hi
 🧑‍🎓 Ex @ Microsoft, Apple, Spotify, Shopify, Lifesum 
 
 🤓 Learning
+
 📲 Developing
+
 🏢 Working
+
 🏋️‍♂️ Tranining
+
 🎮 Gaming
+
 🎵 Creating/Listening 
 
 🕹️ [Professoroaks @Discord](discordapp.com/users/392694188405424138)
