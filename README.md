@@ -1,12 +1,12 @@
 # Hi hey hi 👋
 ```
 ### about
-🙋‍♂️ I'm Oak
-🧑‍💻 Dev since '03
+🙋‍♂️ I'm Oktay
+🧑‍💻 Apprentice to nonprofit through my Mom, Camilla. 
 🤷‍♂ M.Sc. in CS & AI/ML
 ### whois
-🧑‍🎓 Alumni @ Royal Institute of Technology (KTH), California Polytechnic State University (CalPoly)
-🧑‍🎓 Ex @ Microsoft, Apple, Spotify, Shopify, Lifesum
+🧑‍🎓 Alumni @Royal Institute of Technology (KTH), California Polytechnic State University (CalPoly)
+🧑‍🎓 Fellowship @various organizations
 ### social
 * 🕹️ [Professoroaks @Discord](discordapp.com/users/392694188405424138)
 * 🔊 [oktaygardner @SoundCloud](discordapp.com/users/392694188405424138)
@@ -14,6 +14,6 @@
 * 👨‍💼 [Oktay Bahceci @LinkedIn](linked.in/oktayb)
 * 📸 [professoroakz @Instagram](https://www.instagram.com/professoroakz/)
 
-🔥 http://linktr.ee/oktaygardener 🔥
-✉️ oktayinbox@gmail.com
+🔥 http://linktr.ee/oktays 🔥
+✉️ oktaysinbox@gmail.com
 ```
